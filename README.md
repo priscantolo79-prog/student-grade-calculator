@@ -29,7 +29,7 @@ A simple student grade calculator built with Python and Streamlit.
 
 Run the following command from the project directory:
 
-python -m streamlit run student_grades_app.py
+   python -m streamlit run student_grades_app.py
 
 
 ## Project Purpose
